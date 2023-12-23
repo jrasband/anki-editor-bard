@@ -1,0 +1,2 @@
+* anki-editor-bard
+Set of helper functions for [[https://github.com/orgtre/anki-editor][anki-editor]] (link is for the best-maintained version of anki-editor) aimed at improving memorization of poetry and prose.
